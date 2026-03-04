@@ -1,15 +1,19 @@
-# Large Fixed-Wing UAV Platform
+# Large Fixed-Wing UAV (V1) — Integration Prototype
 
-Experimental fixed-wing drone with approximately 2 meter wingspan designed for long-range flight testing and FPV observation.
+Large fixed-wing UAV prototype built from high-density foam for airframe + electronics integration and FPV testing.
 
-Features:
+## Hardware highlights
+- 14.4V LiPo power system
+- 80A ESC (off-the-shelf)
+- Brushless motor: 3600 KV
+- Retractable electronic landing gear
+- FlySky 6-channel RC link (FS-i6X class)
+- 5.8 GHz FPV video link with ground reception on a laptop (5.8 GHz receiver/antenna)
 
-- custom high-density foam airframe
-- brushless motor propulsion
-- 14.4V LiPo battery system
-- 80A ESC controller
-- retractable electronic landing gear
-- FlySky radio control system
-- 5.8 GHz FPV transmission system
+## Engineering focus
+- airframe layout and internal component placement
+- power system wiring and reliability checks
+- FPV link setup and ground-station workflow
 
-Experimental AI concepts were explored for analyzing flight telemetry and monitoring power system parameters.
+## AI / data angle (realistic)
+- explored an AI-assisted monitoring concept: offline checks on recorded FPV footage + simple anomaly flags for power-system behavior (voltage drop / current spikes) where measurements are available
