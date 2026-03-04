@@ -1,13 +1,16 @@
-# Delta-Wing High-Speed UAV
+# Delta-Wing UAV — High-Thrust Concept Platform
 
-Experimental delta-wing UAV platform designed for higher speed and aerodynamic efficiency.
+A new approach: delta-wing airframe with a fully redesigned internal structure and a high-thrust propulsion concept.
 
-Features:
+## Hardware highlights
+- delta-wing configuration (new airframe layout)
+- turbine-style propulsion concept with approx. 4 kg static thrust (high-speed focus)
+- FPV monitoring setup
 
-- delta-wing airframe configuration
-- high-thrust propulsion system (~4 kg thrust)
-- redesigned structure compared to previous prototypes
-- FPV monitoring system
-- CAD-assisted aerodynamic evaluation
+## Engineering focus
+- full redesign: structure, layout, and integration approach
+- CAD-assisted geometry checks during design (layout + basic aerodynamic sanity checks)
+- longer development cycle with multiple iterations
 
-Experimental AI-assisted concepts were explored for analyzing flight data and monitoring onboard systems.
+## AI / data angle (realistic)
+- explored AI-assisted flight data interpretation concepts (offline): organizing test data, flags for abnormal behavior, and structured post-test review workflow
