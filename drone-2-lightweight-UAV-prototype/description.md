@@ -1,13 +1,14 @@
-# Lightweight UAV Prototype
+# Fixed-Wing UAV — Lightweight Reinforced Iteration
 
-Second-generation UAV prototype with improved structural efficiency and reduced weight.
+Second iteration of the foam fixed-wing platform. Same general architecture, redesigned to reduce weight and increase structural stiffness.
 
-Features:
+## What changed 
+- improved internal structure and reinforcement strategy
+- reduced airframe weight while keeping rigidity
+- cleaner component placement and wiring
+- integrated FPV system (same 5.8 GHz class link)
 
-- redesigned airframe geometry
-- reinforced structural layout
-- reduced weight compared to previous design
-- improved electronics integration
-- FPV observation system
-
-The airframe design and component layout were independently developed and tested through iterative prototyping.
+## Engineering focus
+- iterative redesign based on weak points from previous build
+- airframe development from scratch (drawings/layout + build)
+- integration: propulsion, power electronics, FPV, RC link
