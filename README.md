@@ -1,92 +1,55 @@
-# UAV Drone Development
+# UAV Development Project
 
-This repository contains several experimental UAV platforms that I independently designed and built.  
-The projects focus on fixed-wing drone design, electronics integration, propulsion systems, FPV communication, and experimental AI-assisted flight data analysis.
+This repository documents a series of experimental fixed-wing UAV prototypes that I independently designed and built.  
+The project focuses on practical exploration of drone engineering including airframe design, propulsion integration, electronics architecture and iterative prototyping.
 
-All platforms were developed from scratch, including structural design, component selection, and system integration.
-
----
-
-## Project Overview
-
-The goal of these projects was to explore practical UAV engineering and experiment with different airframe configurations and propulsion concepts.
-
-Main areas of focus:
-
-- UAV airframe design and structural prototyping  
-- propulsion system configuration  
-- electronics integration and power systems  
-- FPV communication and monitoring  
-- experimental AI-assisted flight data analysis  
+The goal of the project is to understand how small UAV platforms are developed from concept to working prototype through continuous testing and redesign.
 
 ---
 
-## UAV Platforms
+## Project Goals
 
-### Large Fixed-Wing UAV
+The main objectives of this project are:
 
-Experimental fixed-wing drone platform with approximately **2 meter wingspan** designed for FPV observation and flight testing.
-
-Key characteristics:
-
-- custom high-density foam airframe  
-- brushless propulsion system  
-- **14.4V LiPo power system**  
-- **80A ESC controller**  
-- retractable electronic landing gear  
-- **FlySky radio control system**  
-- **5.8 GHz FPV transmission with ground receiver**
-
-The platform was used to experiment with basic AI-assisted analysis of flight telemetry and monitoring of electrical system parameters such as voltage and current.
+- exploring fixed-wing UAV airframe design
+- integrating propulsion and power systems
+- designing internal electronics architecture
+- implementing FPV monitoring systems
+- experimenting with data analysis and AI-assisted flight monitoring concepts
 
 ---
 
-### Lightweight UAV Prototype
+## Development Approach
 
-Second-generation UAV prototype designed to improve structural efficiency and reduce overall weight.
+All platforms were developed independently from scratch.  
+Each new prototype was created as an iteration of the previous design with improvements in structure, weight distribution, and system integration.
 
-Main improvements compared to the previous platform:
+The development process typically followed these steps:
 
-- redesigned airframe geometry  
-- improved structural rigidity  
-- reduced airframe weight  
-- optimized electronics placement  
-- integrated FPV monitoring system  
+1. airframe concept and structural layout
+2. component selection (motor, ESC, battery, RC system)
+3. internal electronics integration
+4. FPV communication setup
+5. ground testing and system validation
+6. redesign based on observed weaknesses
 
-The entire airframe structure and component architecture were independently designed and tested through iterative prototyping.
-
----
-
-### Delta-Wing High-Speed UAV
-
-Advanced UAV platform based on a **delta-wing aerodynamic configuration** designed for higher speed and aerodynamic efficiency.
-
-Key characteristics:
-
-- delta-wing airframe design  
-- high-thrust propulsion system (~4 kg thrust)  
-- redesigned internal structure  
-- high-speed UAV configuration  
-- FPV monitoring system  
-
-Basic CAD-assisted aerodynamic evaluation was performed during the design phase to analyze structural layout and airflow characteristics.
-
-Experimental AI-assisted concepts were explored for interpreting flight data and monitoring onboard systems during testing.
+This iterative approach allowed continuous improvement of structural strength, weight efficiency and overall system reliability.
 
 ---
 
-## Engineering Focus
+## Engineering Areas Explored
 
-These projects explore several core UAV engineering areas:
+Through these prototypes I explored several core aspects of UAV engineering:
 
-- airframe design and prototyping  
-- propulsion system integration  
-- electronics and power systems  
-- FPV communication systems  
-- experimental AI-assisted flight data interpretation
+- fixed-wing airframe construction
+- propulsion system integration
+- power system architecture
+- RC communication systems
+- FPV video transmission
+- experimental AI-assisted analysis of flight data
 
 ---
 
-## Author
+## Repository Structure
 
-Independent UAV development and prototyping project created as part of personal engineering exploration and experimentation with drone systems.
+Each UAV platform is documented in a separate folder containing build notes and media.
