@@ -4,7 +4,7 @@ A new approach: delta-wing airframe with a fully redesigned internal structure a
 
 ## Hardware highlights
 - delta-wing configuration (new airframe layout)
-- turbine-style propulsion concept with approx. 4 kg static thrust (high-speed focus)
+- EDF propulsion concept with approx. 4 kg static thrust (high-speed focus)
 - FPV monitoring setup
 
 ## Engineering focus
@@ -12,5 +12,5 @@ A new approach: delta-wing airframe with a fully redesigned internal structure a
 - CAD-assisted geometry checks during design (layout + basic aerodynamic sanity checks)
 - longer development cycle with multiple iterations
 
-## AI / data angle (realistic)
+## AI / data angle 
 - explored AI-assisted flight data interpretation concepts (offline): organizing test data, flags for abnormal behavior, and structured post-test review workflow
