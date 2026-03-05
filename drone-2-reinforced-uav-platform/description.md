@@ -1,14 +1,27 @@
-# Fixed-Wing UAV — Lightweight Reinforced Iteration
+# Reinforced UAV Platform — Heavy-Duty Prototype
 
-Second iteration of the foam fixed-wing platform. Same general architecture, redesigned to reduce weight and increase structural stiffness.
+Second UAV prototype built with a stronger airframe designed to improve structural durability and support heavier components.
 
-## What changed 
-- improved internal structure and reinforcement strategy
-- reduced airframe weight while keeping rigidity
-- cleaner component placement and wiring
-- integrated FPV system (same 5.8 GHz class link)
+Unlike the previous foam-based prototype, this platform uses a thin reinforced plastic structure combined with metal elements to increase rigidity and impact resistance.
+
+## Key characteristics
+
+- reinforced plastic airframe with metal structural elements
+- total weight: ~6 kg
+- upgraded propulsion system with higher-performance motor
+- larger diameter propeller for improved thrust
+- 14.4V LiPo power system
+- ESC controller
+- FlySky RC communication link
+- 5.8 GHz FPV video transmission system
 
 ## Engineering focus
-- iterative redesign based on weak points from previous build
-- airframe development from scratch (drawings/layout + build)
-- integration: propulsion, power electronics, FPV, RC link
+
+This platform was developed to explore:
+
+- stronger structural design compared to foam airframes
+- heavier UAV configurations
+- propulsion performance improvements
+- reliable electronics integration within a rigid airframe
+
+The design and internal layout were independently developed and assembled as part of the ongoing UAV prototyping process.
