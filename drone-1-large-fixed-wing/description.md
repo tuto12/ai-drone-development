@@ -15,5 +15,5 @@ Large fixed-wing UAV prototype built from high-density foam for airframe + elect
 - power system wiring and reliability checks
 - FPV link setup and ground-station workflow
 
-## AI / data angle (realistic)
+## AI / data angle 
 - explored an AI-assisted monitoring concept: offline checks on recorded FPV footage + simple anomaly flags for power-system behavior (voltage drop / current spikes) where measurements are available
