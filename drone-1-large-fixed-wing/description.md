@@ -1,4 +1,4 @@
-# Large Fixed-Wing UAV (V1) — Integration Prototype
+# Large Fixed-Wing UAV — Integration Prototype
 
 Large fixed-wing UAV prototype built from high-density foam for airframe + electronics integration and FPV testing.
 
