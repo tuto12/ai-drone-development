@@ -15,7 +15,6 @@ The main objectives of this project are:
 - integrating propulsion and power systems
 - designing internal electronics architecture
 - implementing FPV monitoring systems
-- experimenting with data analysis and AI-assisted flight monitoring concepts
 
 ---
 
@@ -46,7 +45,6 @@ Through these prototypes I explored several core aspects of UAV engineering:
 - power system architecture
 - RC communication systems
 - FPV video transmission
-- experimental AI-assisted analysis of flight data
 
 ---
 
