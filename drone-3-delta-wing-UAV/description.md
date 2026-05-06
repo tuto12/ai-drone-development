@@ -11,6 +11,3 @@ A new approach: delta-wing airframe with a fully redesigned internal structure a
 - full redesign: structure, layout, and integration approach
 - CAD-assisted geometry checks during design (layout + basic aerodynamic sanity checks)
 - longer development cycle with multiple iterations
-
-## AI / data angle 
-- explored AI-assisted flight data interpretation concepts (offline): organizing test data, flags for abnormal behavior, and structured post-test review workflow
